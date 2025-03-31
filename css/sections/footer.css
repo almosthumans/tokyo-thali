@@ -60,3 +60,13 @@
 
   object-fit: contain;
 }
+
+#git{
+  font-size: 16px;
+  font-weight: 500;
+  font-family: Helvetica, sans-serif;
+  text-transform: uppercase;
+  color: var(--secondary-color);
+
+  cursor: pointer;
+}
