@@ -46,27 +46,12 @@
   cursor: pointer;
 }
 
-.footer__social li {
-  width: 42px;
-  height: 42px;
+.github-logo {
+  bottom: 10px;
+  right: 10px;
+  width: 40px;  /* Adjust size */
 
-  background-color: var(--secondary-color);
+  
   border-radius: 100%;
-}
-
-.footer__social li img {
-  width: 45%;
-  height: 45%;
-
   object-fit: contain;
-}
-
-#git{
-  font-size: 16px;
-  font-weight: 500;
-  text-transform: uppercase;
-  font-family: var(--playfair-display);
-  color: var(--secondary-color);
-
-  cursor: pointer;
 }
